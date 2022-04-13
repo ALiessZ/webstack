@@ -227,12 +227,12 @@ div.bg {
   top: 0;
   width: 100%;
   height: 100%;
-  background: url("https://npm.elemecdn.com/hassan-assets/navi/TortoiseFairyHouse.jpg")
+  background: url("https://tva4.sinaimg.cn/large/0066pgu2ly1h180u370n2j32yo1o07wm.jpg")
     no-repeat center center;
   background-size: cover; /* 填充 */
 }
 .night div.bg {
-  background: url("https://npm.elemecdn.com/hassan-assets/navi/TortoiseFairyHouse_dark.png")
+  background: url("https://tva4.sinaimg.cn/large/0066pgu2ly1h180u370n2j32yo1o07wm.jpg")
     no-repeat center center;
   background-size: cover; /* 填充 */
 }
@@ -357,7 +357,7 @@ body.night .user-info-navbar .user-info-menu > li > a:hover {
 
 /* 鼠标图标 -----------------------------------------------------------------------开始 */
 body {
-  cursor: url(https://npm.elemecdn.com/hassan-assets/img/cursor.png), default !important;
+  cursor: url(https://s1.ax1x.com/2022/04/13/LKflqI.png), default !important;
 }
 
 /*i标签，a标签，按钮，头部的导航栏，网址卡片，底栏链接*/
@@ -366,7 +366,7 @@ a:hover,
 button:hover,
 #nav .site-page:hover,
 .xe-widget.xe-conversations.box2.label-info {
-  cursor: url(https://npm.elemecdn.com/hassan-assets/img/cursor_puppy.png),
+  cursor: url(https://s1.ax1x.com/2022/04/13/LKflqI.png),
     pointer !important;
 }
 
@@ -374,7 +374,7 @@ button:hover,
 #footer-wrap a:hover,
 #pagination .page-number:hover,
 input#txt {
-  cursor: url(https://npm.elemecdn.com/hassan-assets/img/cursor_stitch.png),
+  cursor: url(https://s1.ax1x.com/2022/04/13/LKflqI.png),
     pointer !important;
 }
 /* 鼠标图标 -----------------------------------------------------------------------结束 */
