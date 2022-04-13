@@ -358,26 +358,16 @@ body.night .user-info-navbar .user-info-menu > li > a:hover {
 
 /* 滚动条 */
 ::-webkit-scrollbar {
-  width: 12px;
-  height: 8px;
+  width: 10px;
+  height: 10px;
 }
-::-webkit-scrollbar-track {
-  background-color: #d0f2ee;
-}
+
 ::-webkit-scrollbar-thumb {
-  background-color: #222;
-  background-image: -webkit-linear-gradient(
-    45deg,
-    rgba(255, 255, 255, 0.4) 25%,
-    transparent 25%,
-    transparent 50%,
-    rgba(255, 255, 255, 0.4) 50%,
-    rgba(255, 255, 255, 0.4) 75%,
-    transparent 75%,
-    transparent
-  );
-  border-radius: 5em;
+  background-color: #00c4b6;
+  background-image: -webkit-linear-gradient( 45deg, rgba(255, 255, 255, 0.4) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.4) 50%, rgba(255, 255, 255, 0.4) 75%, transparent 75%, transparent);
+  border-radius: 2em;
 }
+
 ::-webkit-scrollbar-corner {
   background-color: transparent;
 }
